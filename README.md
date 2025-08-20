@@ -6,8 +6,8 @@ This project demonstrates data-driven performance prediction for fuel cells usin
 ``````
 fuel-cell-prediction/
 ├── data/ # Data directory
-│ ├── raw/ # Raw data (empty in this project)
-│ ├── processed/ # Processed data (empty in this project)
+│ ├── raw/ # Raw data 
+│ ├── processed/ # Processed data
 │ └── synthetic_data.csv # Generated synthetic data
 ├── models/ # Trained model files
 ├── notebooks/ # Jupyter notebooks for exploration
